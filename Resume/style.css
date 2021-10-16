@@ -95,12 +95,8 @@ li {
   padding-right: 0 auto;
   padding-top: 0 auto;
   padding-bottom: 0 auto;
+  display:inline-block;
   text-align: center;
-  display: inline;
-}
-
-#li {
-  display: inline-block;
 }
 
 .degrees {
