@@ -87,18 +87,25 @@ li {
 }
 
 .menu {
-  margin-left: 0 auto;
-  margin-right: 0 auto;
-  margin-top: 0 auto;
-  margin-bottom: 0 auto;
-  padding-left: 0 auto;
-  padding-right: 0 auto;
-  padding-top: 0 auto;
-  padding-bottom: 0 auto;
-  display:inline-block;
+  font-weight:600px;
   text-align: center;
+  margin-top:20px;
+  margin-bottom: 0 auto;
+  margin-right: 0 auto;
+  margin-left: 0 auto;
+  display: inline-block;
 }
 
+#menu {
+  display: inline-block;
+}
+
+}
+
+.content {
+  text-align: center;
+  display: inline;
+}
 .degrees {
   margin-top: 5px;
   margin-left: 0 auto;
