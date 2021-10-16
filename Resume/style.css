@@ -1,0 +1,62 @@
+/*styles for my resume*/
+
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  color: #444;
+  font-weight: 400;
+}
+
+/*banner name at top*/
+
+h1 {
+  color: #33485e;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 3em;
+}
+
+/*job title on top*/
+
+strong {
+  text-transform: uppercase;
+  font-size: 1.5em;
+  color: #33485e;
+}
+
+/*section titles on top*/
+
+h2 {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  background-color: #33485e;
+  color: white;
+  font-weight: 400;
+}
+
+/*job titles on top*/
+
+h3 {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+/*organization titles on top*/
+
+h4 {
+  font-size: 400;
+  font-size: 1.5em;
+}
+
+/*job dates on top*/
+
+h5 {
+  font-weight: 400;
+  font-size: 1em;
+  font-style: italic;
+}
+
+/*contact, education and skills on top*/
+
+li {
+  font-size: 1em;
+}
