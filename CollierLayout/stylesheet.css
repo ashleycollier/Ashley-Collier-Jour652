@@ -9,9 +9,10 @@
 
 #title {
   align: center;
+  text-transform: uppercase;
 }
 
-.title {
+.headline {
   text-align: center;
   align: center;
   text-transform: uppercase;
@@ -20,7 +21,8 @@
 .byline {
   font-style: italic;
   text-transform: uppercase;
-  text-align:left;
+  align: center;
+  text-align:center;
 }
 .main-image {
   float:left;
