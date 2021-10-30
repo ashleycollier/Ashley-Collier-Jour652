@@ -1,10 +1,7 @@
 #content {
   margin: 0 auto;
   width: 900px;
-  font-family: 'Merriweather', serif;
-  font-family: 'Open Sans', sans-serif;
-  font-family: 'Raleway', sans-serif;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Georgia', sans-serif, 13px; 
 }
 
 #title {
@@ -16,13 +13,14 @@
   text-align: center;
   align: center;
   text-transform: uppercase;
+  font-family: 'Helvetica', sans-serif;
 }
 
 .byline {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
   font-style: italic;
-  text-transform: uppercase;
-  align: center;
-  text-align:center;
+  text-align: center;
 }
 .main-image {
   float:left;
