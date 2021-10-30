@@ -1,0 +1,72 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+  font-family: 'Merriweather', serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+}
+
+#title {
+  align: center;
+}
+
+.title {
+  text-align: center;
+  align: center;
+}
+
+.byline {
+  font-style: italic;
+  text-transform: uppercase;
+  text-align:left;
+}
+.main-image {
+  float:left;
+  width: 400px;
+  height: 220px;
+  padding: 5px;
+}
+
+.second-image {
+  width: 320px;
+  height= 120px;
+  align: right;
+  float: right;
+  padding right: 15px;
+
+}
+
+.hope-gif {
+  width: 320px;
+  height= 320px;
+  align: right;
+  padding: 5px;
+  float: left;
+}
+
+blockquote {
+  border: 1px
+  display: block;
+  font-size: 24px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 5px;
+  background: orange;
+  color: white;
+  border-radius: 5px;
+  font-size: italic;
+}
+
+
+margin-left: 50px;
+padding-left: 15px;
+border-left: 4px solid #ccc;
+
+}
+
+.caption {
+  font-style: italic;
+}
