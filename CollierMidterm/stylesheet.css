@@ -1,0 +1,87 @@
+#content {
+  font-family: 'Helvetica', arial, sans-serif, verdana;
+  font-size: 12px;
+  width: 900px;
+  columns: 1;
+  text-align: justify;
+  margin: 0 auto;
+}
+
+.headline {
+  text-align: center;
+  font-family: 'Crete Round', serif;
+  font-size: 26px;
+
+
+}
+
+
+#byline {
+  font-size: 20px;
+  font-family: 'Crete Round', serif;
+  text-align: left;
+}
+
+/*horizontal photo of Megan with text on graphic*/
+
+.first-image {
+  float:left;
+  width: 500px;
+  height: 288px;
+  padding: 5px;
+}
+
+.image2 {
+  width: 315px;
+  height: 420px;
+  float: right;
+  padding: 5px;
+  align: right;
+}
+.image3 {
+  width: 315px;
+  height: 420px;
+  align: right;
+  float: right;
+  padding: 10px;
+  padding-top: 5px;
+}
+
+.image4 {
+  float:left;
+  width: 515px;
+  height: 315px;
+  padding: 5px;
+}
+
+.column {
+  width: 900px;
+  font-size: 12px;
+  margin: 0 auto;
+  text-align: justify;
+  columns: 1;
+  font-family: 'Helvetica', arial, sans-serif, verdana;
+}
+
+.headlines {
+  font-family: 'Crete Round', serif;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+blockquote {
+  border: 1px
+  display: block;
+  text-align: center;
+  font-size: 24px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+  background: pink;
+  color: white;
+  border-radius: 0;
+  font-style: italic;
+  width: 900px;
+  }
