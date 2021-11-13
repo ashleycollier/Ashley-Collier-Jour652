@@ -35,6 +35,14 @@ p {
   margin-right: auto;
 }
 
+.image2 {
+  width: 730px;
+  height:520px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 figcaption {
     font: italic smaller sans-serif;
     padding: 3px;
